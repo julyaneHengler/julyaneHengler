@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/julyaneHengler">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=julyaneHengler&show_icons=true&theme=radical&include_a11_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyaneHengler&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
