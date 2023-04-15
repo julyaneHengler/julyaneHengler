@@ -1,8 +1,8 @@
 ### Oie, eu sou a Julyane 😊
 
-- 💼 Atualmente trabalho na NuernbergMesse Brasil, como assistente financeiro, mas estou à procura de estágio na área de programação.
-- 🌱 Estudando Banco de Dados (SQL)
-- 📙 Fiz um curso técnico de Análise e Desenvolvimento de Sistemas
+- 💼 Atualmente trabalho na NuernbergMesse Brasil, como assistente financeiro, mas estou à procura de estágio na área de programação para obter experiência profissional.
+- 🌱 Estudando Banco de Dados (SQL).
+- 📙 Fiz um curso técnico de Análise e Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://github.com/julyaneHengler">
